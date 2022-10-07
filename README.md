@@ -23,10 +23,10 @@
 </div>
   
   ### :woman_technologist: About Me :
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   - :telescope: I'm studying Computer Engineering at University of Uludag
 
-- :seedling: I'm doing an internship program at Kodluyoruz & Patika.dev.
+- :seedling: Internship
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
