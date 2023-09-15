@@ -6,7 +6,7 @@ public class AboutMe {
     String profession = "Software Engineer";
     
     String[] preferredTechStack = {"java", "spring"};
-    String [] hasUsed = {"react", "javascript", "firebase"};
+    String [] hasUsed = {"python", "javascript", "firebase"};
 }
 ```
 
