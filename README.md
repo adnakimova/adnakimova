@@ -3,7 +3,7 @@ hi, this is my github profile
 public class AboutMe {
     String name = "Aidana";
     
-    String profession = "Software Engineer";
+    String profession = "Soft";
     
     String[] preferredTechStack = {"java", "spring"};
     String [] hasUsed = {"python", "javascript", "firebase"};
